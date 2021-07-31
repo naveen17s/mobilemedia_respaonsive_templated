@@ -1,0 +1,1 @@
+# mobilemedia_respaonsive_templated
